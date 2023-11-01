@@ -45,13 +45,6 @@ Make sure you have the following Python libraries installed to run the code in t
 ## Contributions
 If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. We welcome improvements, bug fixes, or additional features.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-We would like to acknowledge [Your Name] for their guidance and support during this project.
 
-Please feel free to reach out with any questions or feedback related to this project.
-
-Happy modeling!
 
